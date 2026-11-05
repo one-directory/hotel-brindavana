@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.next-dev/
+out/
+test-results/
+qa/
+*.tsbuildinfo
+.env*
+
+.openai/
+*.log

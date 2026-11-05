@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560" role="img"><title>Room study; furnishings and layout are illustrative — conceptual illustration, not the actual hotel</title><rect width="100%" height="100%" fill="#eee3cc"/><g stroke="#6b1f2a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0 430H800M90 0V430M90 430L0 520" fill="none" stroke-opacity=".35"/>
+  <rect x="510" y="61" width="188" height="239" fill="#c99d51" fill-opacity=".24"/>
+  <path d="M510 61H698V300H510ZM604 61V300M510 172H698" fill="none"/>
+  <path d="M523 282Q565 227 594 257T685 209M523 275L685 275" stroke-opacity=".4" fill="none"/>
+  <path d="M497 54H710M499 62L480 320H525L539 62M667 62L680 320H724L705 62" fill="#eee3cc"/>
+  <g transform="translate(22 0)">
+  <path d="M167 302V226Q167 202 191 202H423Q447 202 447 226V302" fill="#c99d51"/>
+  <path d="M180 219H434M180 236H434M180 253H434M180 270H434" stroke-opacity=".35"/>
+  <path d="M167 291H447L533 402H103Z" fill="#eee3cc"/>
+  <path d="M103 402H533V440H103ZM116 440V466M519 440V466" fill="#6b1f2a"/>
+  <path d="M188 275H272L264 316H168ZM293 275H385L409 316H309Z" fill="#eee3cc"/>
+  <path d="M146 346H490L533 402H103Z" fill="#c99d51"/>
+  <path d="M175 346L135 402M198 346L163 402M220 346L191 402M242 346L219 402M264 346L247 402M286 346L275 402M308 346L303 402M330 346L331 402M352 346L359 402M374 346L387 402M396 346L415 402M418 346L443 402M440 346L471 402M462 346L499 402" fill="none" stroke-opacity=".35"/>
+  <path d="M562 351H668V370H562ZM574 370V440M656 370V440M589 350V282M568 282H611L603 251H576Z" fill="#eee3cc"/>
+  </g>
+  <path d="M292 39V82M292 82Q245 48 218 70Q229 94 292 82ZM292 82Q338 47 365 70Q350 95 292 82ZM292 82Q268 123 294 145Q322 128 292 82Z" fill="#6b1f2a"/>
+  <path d="M84 492H672M117 510H740" stroke-opacity=".25"/></g></svg>

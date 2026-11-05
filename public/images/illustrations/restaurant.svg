@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560" role="img"><title>A table set for company — conceptual illustration, not the actual hotel</title><rect width="100%" height="100%" fill="#eee3cc"/><g stroke="#6b1f2a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M70 80H730M70 92H730" stroke-opacity=".3"/>
+<path d="M205 18V140M595 18V140M162 184Q162 135 205 135Q248 135 248 184ZM552 184Q552 135 595 135Q638 135 638 184Z" fill="#c99d51"/>
+<path d="M126 354V250Q126 233 143 233H204Q220 233 220 250V354M580 354V250Q580 233 597 233H658Q675 233 675 250V354" fill="#c99d51" fill-opacity=".3"/>
+<path d="M135 266H210M135 284H210M590 266H665M590 284H665"/>
+<ellipse cx="400" cy="333" rx="268" ry="75" fill="#eee3cc"/>
+<path d="M132 333V369Q400 483 668 369V333M184 388V476M618 388V476" fill="#c99d51"/>
+<ellipse cx="400" cy="333" rx="268" ry="75" fill="#eee3cc"/>
+<ellipse cx="268" cy="334" rx="58" ry="21" fill="none"/><ellipse cx="268" cy="334" rx="42" ry="14" fill="none"/><ellipse cx="527" cy="334" rx="58" ry="21" fill="none"/><ellipse cx="527" cy="334" rx="42" ry="14" fill="none"/>
+<path d="M194 313V356M184 313V331H204V313M598 312V355M610 313V356M351 282V311H369V282ZM430 282V311H448V282ZM384 306H418L412 264H390Z" fill="none"/>
+<path d="M400 264V219M400 245Q369 219 376 208Q400 209 400 245M400 235Q423 210 432 215Q431 236 400 235" fill="#6b1f2a"/>
+<path d="M89 494H711" stroke-opacity=".3"/>
+</g></svg>

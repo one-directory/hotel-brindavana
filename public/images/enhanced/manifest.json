@@ -1,0 +1,137 @@
+[
+  {
+    "original": "/images/rooms/AC/WhatsApp Image 2026-10-28 at 8.05.08 PM (1).jpeg",
+    "enhanced": "/images/enhanced/ac-01.webp",
+    "category": "AC"
+  },
+  {
+    "original": "/images/rooms/AC/WhatsApp Image 2026-10-28 at 8.05.08 PM (2).jpeg",
+    "enhanced": "/images/enhanced/ac-02.webp",
+    "category": "AC"
+  },
+  {
+    "original": "/images/rooms/AC/WhatsApp Image 2026-10-28 at 8.05.08 PM.jpeg",
+    "enhanced": "/images/enhanced/ac-03.webp",
+    "category": "AC"
+  },
+  {
+    "original": "/images/rooms/AC/WhatsApp Image 2026-10-28 at 8.05.09 PM.jpeg",
+    "enhanced": "/images/enhanced/ac-04.webp",
+    "category": "AC"
+  },
+  {
+    "original": "/images/rooms/AC/WhatsApp Image 2026-10-29 at 12.42.11 PM (1).jpeg",
+    "enhanced": "/images/enhanced/ac-05.webp",
+    "category": "AC"
+  },
+  {
+    "original": "/images/rooms/AC/WhatsApp Image 2026-10-29 at 12.42.23 PM (1).jpeg",
+    "enhanced": "/images/enhanced/ac-06.webp",
+    "category": "AC"
+  },
+  {
+    "original": "/images/rooms/AC/WhatsApp Image 2026-10-29 at 12.42.23 PM (2).jpeg",
+    "enhanced": "/images/enhanced/ac-07.webp",
+    "category": "AC"
+  },
+  {
+    "original": "/images/rooms/AC/WhatsApp Image 2026-10-29 at 12.42.23 PM.jpeg",
+    "enhanced": "/images/enhanced/ac-08.webp",
+    "category": "AC"
+  },
+  {
+    "original": "/images/rooms/AC/WhatsApp Image 2026-10-29 at 12.42.24 PM.jpeg",
+    "enhanced": "/images/enhanced/ac-09.webp",
+    "category": "AC"
+  },
+  {
+    "original": "/images/rooms/AC/WhatsApp Image 2026-10-29 at 12.42.30 PM (2).jpeg",
+    "enhanced": "/images/enhanced/ac-10.webp",
+    "category": "AC"
+  },
+  {
+    "original": "/images/rooms/AC/WhatsApp Image 2026-10-29 at 12.42.36 PM.jpeg",
+    "enhanced": "/images/enhanced/standard-ac.webp",
+    "category": "AC"
+  },
+  {
+    "original": "/images/rooms/NON-AC/WhatsApp Image 2026-10-28 at 8.07.34 PM.jpeg",
+    "enhanced": "/images/enhanced/non-ac-01.webp",
+    "category": "NON-AC"
+  },
+  {
+    "original": "/images/rooms/NON-AC/WhatsApp Image 2026-10-28 at 8.07.35 PM (1).jpeg",
+    "enhanced": "/images/enhanced/non-ac-02.webp",
+    "category": "NON-AC"
+  },
+  {
+    "original": "/images/rooms/NON-AC/WhatsApp Image 2026-10-28 at 8.07.35 PM (2).jpeg",
+    "enhanced": "/images/enhanced/non-ac-03.webp",
+    "category": "NON-AC"
+  },
+  {
+    "original": "/images/rooms/NON-AC/WhatsApp Image 2026-10-28 at 8.07.35 PM.jpeg",
+    "enhanced": "/images/enhanced/standard-non-ac.webp",
+    "category": "NON-AC"
+  },
+  {
+    "original": "/resto/WhatsApp Image 2026-10-29 at 12.42.43 PM (1).jpeg",
+    "enhanced": "/images/enhanced/resto-01.webp",
+    "category": "RESTO"
+  },
+  {
+    "original": "/resto/WhatsApp Image 2026-10-29 at 12.42.43 PM.jpeg",
+    "enhanced": "/images/enhanced/resto-02.webp",
+    "category": "RESTO"
+  },
+  {
+    "original": "/resto/WhatsApp Image 2026-10-29 at 12.42.44 PM (2).jpeg",
+    "enhanced": "/images/enhanced/restaurant.webp",
+    "category": "RESTO"
+  },
+  {
+    "original": "/resto/WhatsApp Image 2026-10-29 at 12.42.44 PM.jpeg",
+    "enhanced": "/images/enhanced/resto-04.webp",
+    "category": "RESTO"
+  },
+  {
+    "original": "/resto/WhatsApp Image 2026-10-29 at 3.35.26 PM (1).jpeg",
+    "enhanced": "/images/enhanced/resto-05.webp",
+    "category": "RESTO"
+  },
+  {
+    "original": "/party hall/WhatsApp Image 2026-10-29 at 12.46.50 PM (1).jpeg",
+    "enhanced": "/images/enhanced/party-hall-01.webp",
+    "category": "PARTY HALL"
+  },
+  {
+    "original": "/party hall/WhatsApp Image 2026-10-29 at 12.46.50 PM (2).jpeg",
+    "enhanced": "/images/enhanced/party-hall-02.webp",
+    "category": "PARTY HALL"
+  },
+  {
+    "original": "/party hall/WhatsApp Image 2026-10-29 at 12.46.50 PM.jpeg",
+    "enhanced": "/images/enhanced/party-hall.webp",
+    "category": "PARTY HALL"
+  },
+  {
+    "original": "/party hall/WhatsApp Image 2026-10-29 at 12.46.51 PM (1).jpeg",
+    "enhanced": "/images/enhanced/party-hall-04.webp",
+    "category": "PARTY HALL"
+  },
+  {
+    "original": "/party hall/WhatsApp Image 2026-10-29 at 12.46.51 PM (2).jpeg",
+    "enhanced": "/images/enhanced/party-hall-05.webp",
+    "category": "PARTY HALL"
+  },
+  {
+    "original": "/party hall/WhatsApp Image 2026-10-29 at 12.46.51 PM (3).jpeg",
+    "enhanced": "/images/enhanced/party-hall-06.webp",
+    "category": "PARTY HALL"
+  },
+  {
+    "original": "/party hall/WhatsApp Image 2026-10-29 at 12.46.51 PM.jpeg",
+    "enhanced": "/images/enhanced/party-hall-07.webp",
+    "category": "PARTY HALL"
+  }
+]

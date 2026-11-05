@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="720" viewBox="0 0 640 720" role="img"><title>A doorway and a palm, a study in hospitality — conceptual illustration, not the actual hotel</title><rect width="100%" height="100%" fill="#eee3cc"/><g stroke="#6b1f2a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="23" y="23" width="594" height="674" fill="none" stroke-opacity=".35"/>
+<circle cx="479" cy="153" r="67" fill="#c99d51" stroke="none"/>
+<path d="M91 558V190H550V558" fill="#c99d51" fill-opacity=".22"/>
+<path d="M91 190H550M91 207H550M91 535H550M78 558H564M64 580H578M49 603H592" fill="none"/>
+<path d="M209 535V319A112 112 0 0 1 433 319V535Z" fill="#6b1f2a"/>
+<path d="M223 535V320A98 98 0 0 1 419 320V535" fill="none" stroke="#eee3cc"/>
+<path d="M247 535V322A74 74 0 0 1 395 322V535Z" fill="#eee3cc"/>
+<path d="M260 535V324A61 61 0 0 1 382 324V535Z" fill="#c99d51"/>
+<path d="M321 263V535M260 349H382M271 365H309V485H271ZM333 365H371V485H333Z" fill="none"/>
+<circle cx="308" cy="432" r="3" fill="#6b1f2a"/><circle cx="334" cy="432" r="3" fill="#6b1f2a"/>
+<path d="M107 229H176V418H107ZM465 229H534V418H465ZM117 245H166M117 263H166M117 281H166M117 299H166M117 317H166M117 335H166M117 353H166M117 371H166M117 389H166M475 245H524M475 263H524M475 281H524M475 299H524M475 317H524M475 335H524M475 353H524M475 371H524M475 389H524" fill="none"/>
+<path d="M247 558H395M223 580H419M199 603H443M320 604V648M199 648H443M144 670H496M219 604L190 696M421 604L450 696" fill="none" stroke-opacity=".4"/>
+<g transform="translate(-32 60) scale(.8)"><path d="M82 525Q120 354 192 250" fill="none" stroke-width="6"/><path d="M183 270Q93 185 35 234Q100 239 183 270ZM179 282Q80 241 26 292Q112 278 179 282ZM169 304Q68 297 25 362Q100 325 169 304ZM181 267Q182 161 234 137Q216 208 181 267ZM179 283Q256 190 300 220Q242 237 179 283ZM169 304Q255 241 288 284Q224 282 169 304Z" fill="#6b1f2a" stroke="none"/></g>
+<path d="M58 528H121L111 579H70Z" fill="#6b1f2a"/>
+<path d="M500 540Q476 486 492 464Q511 476 514 511Q517 463 540 447Q553 483 530 523Q550 490 572 491Q568 520 538 541" fill="#6b1f2a"/>
+<path d="M494 539H553L544 580H503Z" fill="#c99d51"/>
+<path d="M75 638H149M491 638H565" stroke-opacity=".5"/>
+</g></svg>
